@@ -29,7 +29,7 @@ export default function App() {
       <footer className="py-3 mt-auto border-top text-center text-muted small" style={{ backgroundColor: 'var(--et-surface)' }}>
         <div className="container">
           <span>
-            eGurukul • Shah &amp; Anchor Kutchhi Engineering College (SAKEC) • Sem III • Rishi and Aditya (Aditya Ghosh Roll no 14, Rishi Ghoricha Roll no 13) • UN SDG 4 &amp; 10
+            eGurukul • Shah &amp; Anchor Kutchhi Engineering College (SAKEC) • Sem III • Rishi Ghoricha and Aditya Ghosh (Aditya Ghosh Roll no 14, Rishi Ghoricha Roll no 13) • UN SDG 4 &amp; 10
           </span>
         </div>
       </footer>
